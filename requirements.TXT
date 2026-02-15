@@ -1,2 +1,2 @@
-discord.py==2.5.1
-Pillow==10.1.0
+discord.py
+pillow
